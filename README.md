@@ -6,4 +6,4 @@ The "Future Gadget Lab" pin on her shoulder is the tool menu; click it and choos
 
 The first time you start the app, it will scan your drives in the background and save a list of every file and folder name. Searches read from that list, so results show up as you type, with no waiting for a disk scan. The list will refresh itself once a day, and you can refresh it by hand from the "____" (you forgot to finish the instruction). This is still the prototype; I'm working on making Makise, a whole personality, into an AI bot that talks back to you, similar to the VN and the anime adaptation. She will fix up code for you, give you advice on your coding or workspace, and fix any major or minor computer issues. Obviously, not hardware, ofc.file:///C:/Users/plasm/OneDrive/Pictures/Screenshots/Screenshot%202026-10-19%20202033.png
 
-![Amadeus GUI](images/Screenshot%202026-10-19%20202033.png)
+https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/Screenshot%202026-10-19%20202033.png
