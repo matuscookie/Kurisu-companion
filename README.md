@@ -9,3 +9,4 @@ The first time you start the app, it will scan your drives in the background and
 
 
 https://www.youtube.com/watch?v=100Njc1Eqgo
+<img width="400" height="250" alt="startup" src="https://github.com/user-attachments/assets/32a5b46d-69c1-45f6-999c-b8513ce213a2" />
