@@ -8,3 +8,4 @@ The first time you start the app, it will scan your drives in the background and
 
 
 
+https://www.youtube.com/watch?v=100Njc1Eqgo
